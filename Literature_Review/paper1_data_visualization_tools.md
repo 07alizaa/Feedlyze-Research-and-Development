@@ -33,4 +33,5 @@ This chapter reviews the theoretical and practical aspects of data visualization
 ---
 
 ## Reference
-Chandra, T. B., & Dwivedi, A. K. (2022). *Data visualization: Existing tools and techniques*. In S. De, S. Dey, S. Bhattacharyya, & S. Bhatia (Eds.), *Advanced Data Mining Tools and Methods for Social Computing* (pp. 177–217). Academic Press, Elsevier. https://doi.org/10.1016/C2020-0-01963-8
+Chandra, T.B. and Dwivedi, A.K. (2022) Data visualization: Existing tools and techniques. In: De, S., Dey, S., Bhattacharyya, S. and Bhatia, S. (eds.) Advanced Data Mining Tools and Methods for Social Computing. Academic Press, Elsevier, pp.177–217. Available at: https://doi.org/10.1016/C2020-0-01963-8 (Accessed: 7 October 2025).
+
